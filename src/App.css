@@ -1,0 +1,43 @@
+
+@font-face {
+  font-family: 'My Font';
+  src: url('../src/Fonts/BritannicDRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'My Font1';
+  src: url('../src/Fonts/LucidaUnicodeCalligraphy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CardFont';
+  src: url('../src/Fonts/Garamond\ Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CardFont2';
+  src: url('../src/Fonts/eb-garamond.12-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Number font';
+  src: url('../src/Fonts/Arialn.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  
+}
+
+
+.custom-card-media {
+  pointer-events: none;
+}
